@@ -162,7 +162,7 @@ AstroSage-Call-Center-Analysis
 
 Data Science Learning Journey (Phase 1 – Data Analytics)
 
-Learning through **Newton School**
+
 
 ---
 
